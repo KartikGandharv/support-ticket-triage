@@ -1,0 +1,104 @@
+categories:
+  BILLING:
+    keywords:
+      - invoice
+      - charge
+      - payment
+      - refund
+      - subscription
+      - billing
+      - overcharged
+      - receipt
+      - transaction
+      - price
+      - cost
+      - fee
+      - discount
+      - credit card
+      - debit
+
+  TECHNICAL:
+    keywords:
+      - bug
+      - error
+      - crash
+      - broken
+      - not working
+      - issue
+      - fail
+      - down
+      - slow
+      - performance
+      - timeout
+      - exception
+      - stack trace
+      - outage
+      - cannot connect
+      - api
+
+  ACCOUNT:
+    keywords:
+      - account
+      - password
+      - username
+      - login
+      - locked
+      - access
+      - profile
+      - email
+      - sign in
+      - register
+      - delete account
+      - deactivate
+      - two factor
+      - reset
+
+  FEATURE_REQUEST:
+    keywords:
+      - feature
+      - request
+      - suggestion
+      - improvement
+      - enhance
+      - would be great
+      - could you
+      - please add
+      - wish
+      - idea
+      - roadmap
+      - future
+      - support for
+
+  SECURITY:
+    keywords:
+      - hack
+      - hacked
+      - breach
+      - unauthorized
+      - stolen
+      - suspicious
+      - compromised
+      - malware
+      - phishing
+      - fraud
+      - scam
+      - identity theft
+      - vulnerability
+
+urgency:
+  keywords:
+    - urgent
+    - asap
+    - immediately
+    - critical
+    - emergency
+    - right now
+    - as soon as possible
+    - down
+    - outage
+    - not working
+    - broken
+    - help
+    - please hurry
+    - losing money
+    - production
